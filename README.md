@@ -1,4 +1,7 @@
 # Caffe
+## In this version, I add:
+- Spatial Winner-Take-All layer
+- LSTM layer with ReLU non-linear.
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
@@ -29,10 +32,6 @@ Please join the [caffe-users group](https://groups.google.com/forum/#!forum/caff
 Framework development discussions and thorough bug reports are collected on [Issues](https://github.com/BVLC/caffe/issues).
 
 Happy brewing!
-
-## In this version, I add:
-- Spatial Winner-Take-All layer
-- LSTM layer with ReLU non-linear.
 
 ## License and Citation
 
