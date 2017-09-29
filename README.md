@@ -31,8 +31,8 @@ Framework development discussions and thorough bug reports are collected on [Iss
 Happy brewing!
 
 ## In this version, I add:
-Spatial Winner-Take-All layer
-LSTM layer with ReLU non-linear.
+- Spatial Winner-Take-All layer
+- LSTM layer with ReLU non-linear.
 
 ## License and Citation
 
