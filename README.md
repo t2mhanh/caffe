@@ -30,6 +30,10 @@ Framework development discussions and thorough bug reports are collected on [Iss
 
 Happy brewing!
 
+## In this version, I add:
+Spatial Winner-Take-All layer
+LSTM layer with ReLU non-linear.
+
 ## License and Citation
 
 Caffe is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
